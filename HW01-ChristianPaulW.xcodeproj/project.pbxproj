@@ -7,25 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A4D390A1FBA114F001051C2 /* File in Resources */ = {isa = PBXBuildFile; fileRef = 3A4D39091FBA114F001051C2 /* File */; };
+		3AA0D7F21FB8E872009D665B /* ParksTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AA0D7F11FB8E872009D665B /* ParksTableViewCell.m */; };
+		3AA0D7F61FB904A6009D665B /* StateParks.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3AA0D7F51FB904A6009D665B /* StateParks.plist */; };
+		3AA0D7FA1FB9054F009D665B /* Directions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3AA0D7F91FB9054F009D665B /* Directions.plist */; };
 		3ACC0F081FB8BD47002FDFA6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F071FB8BD47002FDFA6 /* AppDelegate.m */; };
-		3ACC0F0B1FB8BD47002FDFA6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F0A1FB8BD47002FDFA6 /* ViewController.m */; };
 		3ACC0F0E1FB8BD47002FDFA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ACC0F0C1FB8BD47002FDFA6 /* Main.storyboard */; };
 		3ACC0F101FB8BD47002FDFA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ACC0F0F1FB8BD47002FDFA6 /* Assets.xcassets */; };
 		3ACC0F131FB8BD47002FDFA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3ACC0F111FB8BD47002FDFA6 /* LaunchScreen.storyboard */; };
 		3ACC0F161FB8BD47002FDFA6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F151FB8BD47002FDFA6 /* main.m */; };
+		3ACC0F1E1FB8BE01002FDFA6 /* ParksTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F1D1FB8BE01002FDFA6 /* ParksTableViewController.m */; };
+		3ACC0F211FB8DC24002FDFA6 /* ParksDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F201FB8DC24002FDFA6 /* ParksDetailViewController.m */; };
+		3ACC0F261FB8DDFA002FDFA6 /* park.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACC0F251FB8DDFA002FDFA6 /* park.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A4D39091FBA114F001051C2 /* File */ = {isa = PBXFileReference; lastKnownFileType = folder; path = File; sourceTree = "<group>"; };
+		3AA0D7F01FB8E872009D665B /* ParksTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParksTableViewCell.h; sourceTree = "<group>"; };
+		3AA0D7F11FB8E872009D665B /* ParksTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParksTableViewCell.m; sourceTree = "<group>"; };
+		3AA0D7F51FB904A6009D665B /* StateParks.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = StateParks.plist; sourceTree = "<group>"; };
+		3AA0D7F91FB9054F009D665B /* Directions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Directions.plist; sourceTree = "<group>"; };
 		3ACC0F031FB8BD47002FDFA6 /* HW01-ChristianPaulW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW01-ChristianPaulW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ACC0F061FB8BD47002FDFA6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3ACC0F071FB8BD47002FDFA6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3ACC0F091FB8BD47002FDFA6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3ACC0F0A1FB8BD47002FDFA6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3ACC0F0D1FB8BD47002FDFA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3ACC0F0F1FB8BD47002FDFA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ACC0F121FB8BD47002FDFA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3ACC0F141FB8BD47002FDFA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3ACC0F151FB8BD47002FDFA6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3ACC0F1C1FB8BE01002FDFA6 /* ParksTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParksTableViewController.h; sourceTree = "<group>"; };
+		3ACC0F1D1FB8BE01002FDFA6 /* ParksTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParksTableViewController.m; sourceTree = "<group>"; };
+		3ACC0F1F1FB8DC24002FDFA6 /* ParksDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParksDetailViewController.h; sourceTree = "<group>"; };
+		3ACC0F201FB8DC24002FDFA6 /* ParksDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParksDetailViewController.m; sourceTree = "<group>"; };
+		3ACC0F241FB8DDFA002FDFA6 /* park.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = park.h; sourceTree = "<group>"; };
+		3ACC0F251FB8DDFA002FDFA6 /* park.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = park.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,11 +54,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3AA0D7F71FB904ED009D665B /* CodeFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3ACC0F1C1FB8BE01002FDFA6 /* ParksTableViewController.h */,
+				3ACC0F1D1FB8BE01002FDFA6 /* ParksTableViewController.m */,
+				3ACC0F1F1FB8DC24002FDFA6 /* ParksDetailViewController.h */,
+				3ACC0F201FB8DC24002FDFA6 /* ParksDetailViewController.m */,
+				3ACC0F241FB8DDFA002FDFA6 /* park.h */,
+				3ACC0F251FB8DDFA002FDFA6 /* park.m */,
+				3AA0D7F01FB8E872009D665B /* ParksTableViewCell.h */,
+				3AA0D7F11FB8E872009D665B /* ParksTableViewCell.m */,
+			);
+			path = CodeFiles;
+			sourceTree = "<group>";
+		};
+		3AA0D7F81FB9050E009D665B /* DataFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3AA0D7F51FB904A6009D665B /* StateParks.plist */,
+				3AA0D7F91FB9054F009D665B /* Directions.plist */,
+			);
+			path = DataFiles;
+			sourceTree = "<group>";
+		};
 		3ACC0EFA1FB8BD47002FDFA6 = {
 			isa = PBXGroup;
 			children = (
 				3ACC0F051FB8BD47002FDFA6 /* HW01-ChristianPaulW */,
 				3ACC0F041FB8BD47002FDFA6 /* Products */,
+				3AA0D7F71FB904ED009D665B /* CodeFiles */,
+				3AA0D7F81FB9050E009D665B /* DataFiles */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,10 +99,9 @@
 		3ACC0F051FB8BD47002FDFA6 /* HW01-ChristianPaulW */ = {
 			isa = PBXGroup;
 			children = (
+				3A4D39091FBA114F001051C2 /* File */,
 				3ACC0F061FB8BD47002FDFA6 /* AppDelegate.h */,
 				3ACC0F071FB8BD47002FDFA6 /* AppDelegate.m */,
-				3ACC0F091FB8BD47002FDFA6 /* ViewController.h */,
-				3ACC0F0A1FB8BD47002FDFA6 /* ViewController.m */,
 				3ACC0F0C1FB8BD47002FDFA6 /* Main.storyboard */,
 				3ACC0F0F1FB8BD47002FDFA6 /* Assets.xcassets */,
 				3ACC0F111FB8BD47002FDFA6 /* LaunchScreen.storyboard */,
@@ -129,6 +169,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AA0D7FA1FB9054F009D665B /* Directions.plist in Resources */,
+				3AA0D7F61FB904A6009D665B /* StateParks.plist in Resources */,
+				3A4D390A1FBA114F001051C2 /* File in Resources */,
 				3ACC0F131FB8BD47002FDFA6 /* LaunchScreen.storyboard in Resources */,
 				3ACC0F101FB8BD47002FDFA6 /* Assets.xcassets in Resources */,
 				3ACC0F0E1FB8BD47002FDFA6 /* Main.storyboard in Resources */,
@@ -142,7 +185,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3ACC0F0B1FB8BD47002FDFA6 /* ViewController.m in Sources */,
+				3ACC0F261FB8DDFA002FDFA6 /* park.m in Sources */,
+				3AA0D7F21FB8E872009D665B /* ParksTableViewCell.m in Sources */,
+				3ACC0F1E1FB8BE01002FDFA6 /* ParksTableViewController.m in Sources */,
+				3ACC0F211FB8DC24002FDFA6 /* ParksDetailViewController.m in Sources */,
 				3ACC0F161FB8BD47002FDFA6 /* main.m in Sources */,
 				3ACC0F081FB8BD47002FDFA6 /* AppDelegate.m in Sources */,
 			);

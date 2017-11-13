@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Big Cypress</key>
+	<array>
+		<string>1. These visitors will find it fastest to find US-41 / Tamiami Trail northbound (called SW 8th Street in Miami itself) and proceed northbound (techinically, you are travelling west) all the way out.</string>
+		<string>2. From the Keys or Homestead, Florida, we recommend taking 997 Krome Avenue, North to reach US-41.</string>
+		<string>3. Once you leave the edge of Miami (at the intersection of US-41 / 997) you will drive about 40 miles.</string>
+		<string>4. Oasis Visitor Center is located on the right, on the north side of US-41.</string>
+		<string>5. Big Cypress Swamp Welcome Center is another 20 miles down the road on the opposite side.</string>
+	</array>
+	<key>Biscayne</key>
+	<array>
+		<string>From the Florida Turnpike take exit 6 (Speedway Boulevard). Turn left from exit ramp and continue southto SW 328th Street (North Canal Drive). Turn lefton 328th Street and continue for four miles to the end of the road. The park entrance is on the left just before the entrance to Homestead Bayfront Marina.</string>
+		<string>From US Highway 1 drive south to Homestead.Turn left onto SW 137th Avenue (Speedway Boulevard). Continue south for five miles to SW 328th Street (North Canal Drive). Turn left and continue for four miles to the end of the road. The park entrance is on the left just before the entrance to Homestead Bayfront Marina.</string>
+	</array>
+	<key>Canaveral</key>
+	<array>
+		<string>The national seashore and the wildlife refuge, located midway on Florida&apos;s east coast between Daytona Beach and Melbourne, are accessible via U.S. 1, I-95, and Fla 528 (Beach Line Expressway). The northern access, Apollo Beach, is on Fla A1A at the southern-most end in New Smyrna Beach.</string>
+	</array>
+	<key>Castillo de San Marcos</key>
+	<array>
+		<string>The Castillo de San Marcos National Monument is located in downtown St. Augustine, Florida. St. Augustine is located on Florida’s Northeastern Atlantic coast about midway between Jacksonville and Daytona Beach.</string>
+		<string>Nearby Jacksonville and Daytona are served by international airports with easy access to I-95. Rental cars are available at the airports and also in St. Augustine.</string>
+		<string>From I-95: Take the exit for St. Augustine Historic Sites and Downtown (Route 16, Exit 318). Follow Rt. 16 to US 1. Turn right on US 1 for approximately one mile to West Castillo Drive. Turn left on West Castillo to the traffic light. Turn right at the light. The Castillo and parking are ahead on the left.</string>
+	</array>
+	<key>De Soto</key>
+	<array>
+		<string>From I-75 Take exit 220 SR 64/Manatee Ave, Gulf Beaches exit. Travel west on SR 64 for approximately 12 miles to 75th St. W. Turn right onto 75th St. W. travel north approximately 2 miles to the northern terminus 75th St. W. turns into De Soto Memorial Hwy and dead ends into the park.</string>
+		<string>From I-275 exit 5, follow US-19 into Bradenton. Turn west onto State Road 64, and proceed approximately five miles to 75th Street West. Turn right (north) onto 75th Street West, and proceed two and one half mile to the park entrance and the terminus of 75th Street/ De Soto Memorial Highway.</string>
+	</array>
+	<key>Dry Tortugas</key>
+	<array>
+		<string>Ferry or Seaplane offer Public Transportation.</string>
+		<string>Public transportation departs to the park from Key West.</string>
+	</array>
+	<key>Everglades</key>
+	<array>
+		<string>From Miami: Take the Florida Turnpike (Route 821) south until it ends, merging with U.S. 1 at Florida City. Turn right at the first traffic light onto Palm Drive (State Road 9336/SW 344th St.) and follow the signs to the park.</string>
+	</array>
+	<key>Fort Caroline</key>
+	<array>
+		<string>From I-95 south of Jacksonville: Traveling up the east coast of Florida from the south via Interstate 95, leave I-95 at I-295 East Beltway. Follow I-295 to Monument Road. Exit at Monument Road, follow the brown signs to the right, and travel to Fort Caroline Road. Turn right, and follow Fort Caroline Road as it curves to the left at the bottom of the hill. The entrance to the Fort Caroline National Memorial will be ahead, on your left.</string>
+	</array>
+	<key>Fort Matanzas</key>
+	<array>
+		<string>From I-95: Take exit 305 (Route 206). Follow Route 206 east about 6 miles to Highway A1A. Turn right and follow A1A south for 4 miles to the park entrance on the right side of the road.</string>
+	</array>
+	<key>Gulf Islands</key>
+	<array>
+		<string>The Fort Pickens Area visitor center, campground, and bookstore is near Pensacola Beach. From Interstate 10, take Exit 12 for I-110 South, exit 1B Gregory Street East, merge onto 30 E Chase Street, turn left onto Bayfront Parkway /Hwy 98 East, merge onto Hwy 399 to beaches, cross toll bridge ($1.00), turn right onto Fort Pickens Road.</string>
+	</array>
+	<key>Gullah/Geechee</key>
+	<array>
+		<string>The Corridor extends north and south of U.S. 17. 425 miles along the Atlantic Coast and 30 miles inland from the northern border of Pender County,North Carolina, through South Carolina and Georgia to the southern boundary of St, Johns County,Florida.</string>
+		<string>The Corridor encompassess all or part of 27 counties.</string>
+	</array>
+	<key>Timucuan</key>
+	<array>
+		<string>From I-95 south of Jacksonville: Traveling up the east coast of Florida from the south via Interstate 95, leave I-95 at I-295 East Beltway. Follow I-295 to Monument Road. Exit at Monument Road, follow the brown signs to the right, and travel to Fort Caroline Road. Turn right, and follow Fort Caroline Road as it curves to the left at the bottom of the hill. The entrance to the Fort Caroline National Memorial will be ahead, on your left.</string>
+	</array>
+</dict>
+</plist>
